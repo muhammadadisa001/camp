@@ -1,2 +1,2 @@
 # camp
-To know about the camp organization.
+To know more about the camp organization in details
